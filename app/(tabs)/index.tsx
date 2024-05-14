@@ -4,6 +4,7 @@ import FlatCards from '../components/FlatCards'
 import ElevatatedCard from '../components/ElevatatedCard'
 import FancyCard from '../components/FancyCard'
 import ActionCard from '../components/ActionCard'
+import InputCard from '../components/InputCard'
 
 const index = () => {
   return (
@@ -13,6 +14,7 @@ const index = () => {
         <ElevatatedCard />
         <FancyCard />
         <ActionCard />
+        <InputCard />
       </ScrollView>
     </SafeAreaView>
   )
