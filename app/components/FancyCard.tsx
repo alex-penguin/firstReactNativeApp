@@ -57,7 +57,6 @@ const styles = StyleSheet.create({
     cardTitle: {
         fontSize: 20,
         fontWeight: 'bold',
-        fontFamily: 'lobster',
     },
     cardLabel: {
         fontSize: 16,
